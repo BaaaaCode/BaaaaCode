@@ -7,11 +7,11 @@
 ---
 
 ### 🛠 주요 기술
-- **Language**: 'Python', 'SQL'
+* **Languages:** `Python`, `SQL`
+  
+* **Data Eng & Cloud:** `AWS (S3, Glue, Athena)`, `Docker`
 
-- **Data/Cloud**: 'AWS (S3, Glue, Athena)', 'Docker'
-
-- **DB/Search': 'PostgreSQL', 'MySQL', 'Vector DB (RAG)'
+* **Database:** `PostgreSQL`, `MySQL`, `Vector DB (RAG)`
 
 ---
 
