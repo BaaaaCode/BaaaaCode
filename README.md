@@ -29,6 +29,8 @@
     * **여백:** 뮨헌정보학과 전공동아리 데이터 기반 HUB/Archive 시스템 구축 
     * **EPOCH:** `S3` → `Glue` → `Athena`로 이어지는 AWS 기반 데이터 레이크 인프라 설계 참여
 
+#### 4. WOS 인용색인 NLP: WOS(Web Of Science)데이터를 활용한 TopicModeling
+* **Engineering:** WOS 데이터 추출 및 재가공 후 BERTopic 기반 텍스트 분석 
 ---
 
 ### 📊 학술 및 대외 활동
